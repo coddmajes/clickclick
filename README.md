@@ -1,6 +1,10 @@
 **ClickClick**
 
---基于COCOS2D-X游戏引擎,开发环境Xcode @author codd
+--基于COCOS2D-X游戏引擎,开发环境Xcode 
+
+@author codd
+
+联系方式：coddmajes@gmail.com
 
 游戏简介：
 
