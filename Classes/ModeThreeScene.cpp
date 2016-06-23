@@ -125,7 +125,6 @@ void ModeThreeScene::setUi()
     
     this->btnWay();
 }
-
 void ModeThreeScene::btnWay()
 {
     auto visibleSize = Director::getInstance()->getVisibleSize();
