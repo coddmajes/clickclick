@@ -1,4 +1,4 @@
-**ClickClick**
+## Clickclick
 
 --基于COCOS2D-X游戏引擎,开发环境Xcode 
 
